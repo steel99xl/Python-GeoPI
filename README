@@ -1,0 +1,10 @@
+urllib2 need to be installed
+
+installation:
+pip install urllib2
+
+running script:
+python ./Main
+
+the input is asked for in the script
+
